@@ -1,1 +1,2 @@
-# newegg_price_analysis
+### CPU Price Analysis
+# Newegg vs Best Buy
